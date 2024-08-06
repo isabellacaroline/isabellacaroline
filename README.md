@@ -1,4 +1,4 @@
-## Beijos
+## seja bem vinda, beijos, aproveite...
 
 <!--
 **isabellacaroline/isabellacaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
